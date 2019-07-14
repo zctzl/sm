@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-您好，${requestScope.NAME}
+您好，${NAME}
 </body>
 </html>
